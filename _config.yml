@@ -1,14 +1,14 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
+title: Luais
+email: Luais@live.com
 description: Um lindo tema feito para jekyll e com o <3
 baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+url: "http://luais.github.io"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
+  name     : 'Hongli Yang'
+  email    : luais@live.com
+  url      : http://luaisgithub.io
   facebook : http://facebook.com/fernando.dev
   twitter  : http://twitter.com/nandomoreirame
 
