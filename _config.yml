@@ -1,19 +1,19 @@
 # Site settings
-title: luais
+title: Luais
 email: luais@live.com
 description: Um lindo tema feito para jekyll e com o <3
 baseurl: “/luais”
-url: “luais.github.io”
+url: "http://luais.github.io”
 
 author:
   name     : ‘Hongli Yang’
   email    : luais@live.com
   url      : http://luais.github.io
-  facebook : 
-  twitter  : 
+  facebook : http://facebook.com/fernando.dev
+  twitter  : http://twitter.com/nandomoreirame
 
-github: https://github.com/luais
-disqus_shortname: “yanghongli”
+github: https://github.com
+disqus_shortname: “hongli Yang”
 google_analytics: UA-52446115-1
 
 paginate: 2
