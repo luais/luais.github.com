@@ -1,5 +1,5 @@
-title:            离巢之鸟|身下万丈深渊 头上无尽苍穹
-description:      Describe your website here.
+title:            Luai's Blog
+description:      离巢之鸟|身下万丈深渊 头上无尽苍穹
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
@@ -16,14 +16,14 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         https://github.com/luais
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
