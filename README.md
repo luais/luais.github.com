@@ -1,2 +1,2 @@
 
-###(我的主页)[http://luais.github.io/]
+## [我的主页](http://luais.github.io/)
